@@ -25,8 +25,12 @@ This repo contains a set of research papers as well as related information. The 
 
 ## Papers
 ### RL in multi-agent
+- **Coach-Player Multi-Agent Reinforcement Learning for Dynamic Team Composition** [[paper]](https://arxiv.org/abs/2105.08692)
+  - B. Liu, Q. Liu, P. Stone, A. Garg, Y. Zhu, A. Anandkumar, **ICML 2021**
 - **Randomized Entity-wise Factorization for Multi-Agent Reinforcement Learning** [[paper]](https://arxiv.org/abs/2006.04222)
   - S. Iqbal, C. A. Schroeder de Witt, B. Peng, W. Böhmer, S. Whiteson, F. Sha, **ICML 2021**
+- **Deep Implicit Coordination Graphs for Multi-Agent Reinforcement Learning** [[paper]](https://arxiv.org/abs/2006.11438)
+  - S. Li, J. K. Gupta, P. Morales, R. Allen, M. J. Kochenderfer, **AAMAS 2021**
 - **Multi-Agent Game Abstraction via Graph Attention Neural Network** [[paper]](https://arxiv.org/abs/1911.10715)
   - Y. Liu, W. Wang, Y. Hu, J. Hao, X. Chen, Y. Gao, **AAAI 2020**
 - **Actor-Attention-Critic for Multi-Agent Reinforcement Learning** [[paper]](https://arxiv.org/abs/1810.02912) [[code]](https://github.com/shariqiqbal2810/MAAC)
@@ -58,8 +62,9 @@ This repo contains a set of research papers as well as related information. The 
   - A. Singh, T. Jain, S. Sukhbaatar, **ICLR 2019**
 - **Learning Attentional Communication for Multi-Agent Cooperation** [[paper]](https://arxiv.org/abs/1805.07733)
   - J. Jiang, Z. Lu, **NeurIPS 2018**
-
 - **Learning to Communicate with Deep Multi-Agent Reinforcement Learning** [[paper]](https://proceedings.neurips.cc/paper/2016/hash/c7635bfd99248a2cdef8249ef7bfbef4-Abstract.html)
+- **Learning Multiagent Communication with Backpropagation** [[paper]](https://arxiv.org/abs/1605.07736)
+  - S. Sukhbaatar, A. Szlam, R. Fergus, **NeurIPS 2016**
 
 ### Adaptation
 - **Meta-CPR: Generalize to Unseen Large Number of Agents with Communication Pattern Recognition Module** [[paper]](https://arxiv.org/abs/2112.07222)
@@ -67,7 +72,7 @@ This repo contains a set of research papers as well as related information. The 
 - **Continuous Adaptation via Meta-Learning in Nonstationary and Competitive Environments** [[paper]](https://arxiv.org/pdf/1710.03641.pdf)
   - M. Al-Shedivat, T. Bansal, Y. Burda, I. Sutskever, I. Mordatch, P. Abbeel, **ICLR 2018**
 
-## Multi-Agent Influence
+### Multi-Agent Influence
 - **Learning Latent Representations to Influence Multi-Agent Interaction** [[website]](https://sites.google.com/view/latent-strategies/) [[paper]](https://arxiv.org/abs/2011.06619)
   - A. Xie, D. P. Losey, R. Tolsma, C. Finn, D. Sadigh, **CoRL 2020**
 - **Social Influence as Intrinsic Motivation for Multi-Agent Deep Reinforcement Learning** [[paper]](https://arxiv.org/abs/1810.08647)
@@ -78,6 +83,8 @@ This repo contains a set of research papers as well as related information. The 
   - Z. Ma, Y. Luo, H. Ma, **ICRA 2021**
 
 ### Others
+- Adaptable Agent Populations Using a Generative Model of Policies [[paper]](https://arxiv.org/abs/2107.07506)
+  - K. Derek, P. Isola
 
 
 ## Environment
