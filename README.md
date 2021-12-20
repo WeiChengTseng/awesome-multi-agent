@@ -33,12 +33,20 @@ This repo contains a set of research papers as well as related information. The 
   - R. Lowe, Y. Wu, A. Tamar, **NeurIPS 2017**
 
 ### Imitation Learning and Inverse RL
+- **Multi-Agent Adversarial Inverse Reinforcement Learning** [[paper]](https://arxiv.org/abs/1907.13220)
+  - L. Yu, J. Song, S. Ermon, **ICML 2019**
 - **Multi-Agent Generative Adversarial Imitation Learning** [[paper]](https://arxiv.org/pdf/1807.09936.pdf)
   - J. Song, H. Ren, D. Sadigh, S. Ermon, **NeurIPS 2018**
 
 ### Offline Learning
+-  **Offline Pre-trained Multi-Agent Decision Transformer** [[paper]](https://openreview.net/forum?id=W08IqLMlMer)
 
 ### Communication
+- **Learning to Communicate with Deep Multi-Agent Reinforcement Learning** [[paper]](https://proceedings.neurips.cc/paper/2016/hash/c7635bfd99248a2cdef8249ef7bfbef4-Abstract.html)
+- **Learning when to Communicate at Scale in Multiagent Cooperative and Competitive Tasks** [[paper]](https://arxiv.org/abs/1812.09755)
+  - A. Singh, T. Jain, S. Sukhbaatar, **ICLR 2019**
+- **TarMAC: Targeted Multi-Agent Communication** [[paper]](https://proceedings.mlr.press/v97/das19a.html)
+  - A. Das, T. Gervet, J. Romoff, D. Batra, D. Parikh, M. Rabbat, J. Pineau, **ICML 2019**
 
 ### Adaptation
 - **Meta-CPR: Generalize to Unseen Large Number of Agents with Communication Pattern Recognition Module** [[paper]](https://arxiv.org/abs/2112.07222)
@@ -49,8 +57,9 @@ This repo contains a set of research papers as well as related information. The 
   - Z. Ma, Y. Luo, H. Ma, **ICRA 2021**
 
 
-## Platforms
-- **SMAC** [[Code]](https://github.com/oxwhirl/smac)
+## Environment
+- **SMAC** [[code]](https://github.com/oxwhirl/smac)
+- **Grid-World** [[code]](https://github.com/ArnaudFickinger/gym-multigrid)
 - **Unity ML Agent** [[code]](https://github.com/Unity-Technologies/ml-agents)
 - **Hanabi Learning Environment** [[Code]](https://github.com/deepmind/hanabi-learning-environment)
 - **MAgent** [[Code]](https://github.com/geek-ai/MAgent) 
