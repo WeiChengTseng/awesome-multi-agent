@@ -25,6 +25,12 @@ This repo contains a set of research papers as well as related information. The 
 
 ## Papers
 ### RL in multi-agent
+- **Multi-Agent Game Abstraction via Graph Attention Neural Network** [[paper]](https://arxiv.org/abs/1911.10715)
+  - Y. Liu, W. Wang, Y. Hu, J. Hao, X. Chen, Y. Gao, **AAAI 2020**
+- **Actor-Attention-Critic for Multi-Agent Reinforcement Learning** [[paper]](https://arxiv.org/abs/1810.02912) [[code]](https://github.com/shariqiqbal2810/MAAC)
+  - S. Iqbal, F. Sha, **ICML 2019**
+- **QTRAN: Learning to Factorize with Transformation for Cooperative Multi-Agent Reinforcement Learning** [[paper]](https://arxiv.org/abs/1905.05408)
+  - K. Son, D. Kim, W. J. Kang, D. E. Hostallero, Y. Yi, **ICML 2019**
 - **QMIX: Monotonic Value Function Factorisation for Deep Multi-Agent Reinforcement Learning** [[arxiv]](https://arxiv.org/abs/1803.11485)
   - T. Rashid, M. Samvelyan, C. Witt, **ICML 2018**
 - **Emergent Complexity via Multi-agent Competition** [[website]](https://arxiv.org/abs/1710.03748)[[Code]](https://github.com/openai/multiagent-competition)
@@ -42,15 +48,28 @@ This repo contains a set of research papers as well as related information. The 
 -  **Offline Pre-trained Multi-Agent Decision Transformer** [[paper]](https://openreview.net/forum?id=W08IqLMlMer)
 
 ### Communication
-- **Learning to Communicate with Deep Multi-Agent Reinforcement Learning** [[paper]](https://proceedings.neurips.cc/paper/2016/hash/c7635bfd99248a2cdef8249ef7bfbef4-Abstract.html)
-- **Learning when to Communicate at Scale in Multiagent Cooperative and Competitive Tasks** [[paper]](https://arxiv.org/abs/1812.09755)
-  - A. Singh, T. Jain, S. Sukhbaatar, **ICLR 2019**
+- **Multi-Agent Graph-Attention Communication and Teaming** [[paper]](https://dl.acm.org/doi/abs/10.5555/3463952.3464065) [[code]](https://github.com/MAGIC-AAMAS/MAGIC)
+  - Y. Niu, R. Paleja, M. Gombolay, **AAMAS 2021**
 - **TarMAC: Targeted Multi-Agent Communication** [[paper]](https://proceedings.mlr.press/v97/das19a.html)
   - A. Das, T. Gervet, J. Romoff, D. Batra, D. Parikh, M. Rabbat, J. Pineau, **ICML 2019**
+- **Learning when to Communicate at Scale in Multiagent Cooperative and Competitive Tasks** [[paper]](https://arxiv.org/abs/1812.09755)
+  - A. Singh, T. Jain, S. Sukhbaatar, **ICLR 2019**
+- **Learning Attentional Communication for Multi-Agent Cooperation** [[paper]](https://arxiv.org/abs/1805.07733)
+  - J. Jiang, Z. Lu, **NeurIPS 2018**
+
+- **Learning to Communicate with Deep Multi-Agent Reinforcement Learning** [[paper]](https://proceedings.neurips.cc/paper/2016/hash/c7635bfd99248a2cdef8249ef7bfbef4-Abstract.html)
 
 ### Adaptation
 - **Meta-CPR: Generalize to Unseen Large Number of Agents with Communication Pattern Recognition Module** [[paper]](https://arxiv.org/abs/2112.07222)
-  - W. C. Tseng, W. Wei, D. C. Juan, M. Sun
+  - W. C. Tseng, W. Wei, D. C. Juan, M. Sun, **pre-print**
+- **Continuous Adaptation via Meta-Learning in Nonstationary and Competitive Environments** [[paper]](https://arxiv.org/pdf/1710.03641.pdf)
+  - M. Al-Shedivat, T. Bansal, Y. Burda, I. Sutskever, I. Mordatch, P. Abbeel, **ICLR 2018**
+
+## Multi-Agent Influence
+- **Learning Latent Representations to Influence Multi-Agent Interaction** [[website]](https://sites.google.com/view/latent-strategies/) [[paper]](https://arxiv.org/abs/2011.06619)
+  - A. Xie, D. P. Losey, R. Tolsma, C. Finn, D. Sadigh, **CoRL 2020**
+- **Social Influence as Intrinsic Motivation for Multi-Agent Deep Reinforcement Learning** [[paper]](https://arxiv.org/abs/1810.08647)
+  - N. Jaques, A. Lazaridou, E. Hughes, C. Gulcehre, P. A. Ortega, DJ Strouse, J. Z. Leibo, N. de Freitas, **ICML 2019**
 
 ### Application
 - **Distributed Heuristic Multi-Agent Path Finding with Communication** [[paper]](https://arxiv.org/abs/2106.11365)
@@ -65,3 +84,26 @@ This repo contains a set of research papers as well as related information. The 
 - **MAgent** [[Code]](https://github.com/geek-ai/MAgent) 
 - **multiagent-particle-envs** [[Code]](https://github.com/openai/multiagent-particle-envs)
 - **multiagent-competition** [[Code]](https://github.com/openai/multiagent-competition)
+
+<!-- <table >
+  <tr>
+    <td>Alfreds Futterkiste</td>
+    <td>Maria Anders</td>
+    <td>Germany</td>
+  </tr>
+  <tr>
+    <th>SMAC</th>
+    <th>Grid-World</th>
+    <th>Unity ML Agent</th>
+  </tr>
+  <tr>
+    <td>Centro comercial Moctezuma</td>
+    <td>Francisco Chang</td>
+    <td>Mexico</td>
+  </tr>
+  <tr>
+    <th>Company</th>
+    <th>Contact</th>
+    <th>Country</th>
+  </tr>
+</table> -->
