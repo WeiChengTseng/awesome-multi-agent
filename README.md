@@ -25,6 +25,8 @@ This repo contains a set of research papers as well as related information. The 
 
 ## Papers
 ### RL in multi-agent
+- **Randomized Entity-wise Factorization for Multi-Agent Reinforcement Learning** [[paper]](https://arxiv.org/abs/2006.04222)
+  - S. Iqbal, C. A. Schroeder de Witt, B. Peng, W. Böhmer, S. Whiteson, F. Sha, **ICML 2021**
 - **Multi-Agent Game Abstraction via Graph Attention Neural Network** [[paper]](https://arxiv.org/abs/1911.10715)
   - Y. Liu, W. Wang, Y. Hu, J. Hao, X. Chen, Y. Gao, **AAAI 2020**
 - **Actor-Attention-Critic for Multi-Agent Reinforcement Learning** [[paper]](https://arxiv.org/abs/1810.02912) [[code]](https://github.com/shariqiqbal2810/MAAC)
@@ -74,6 +76,8 @@ This repo contains a set of research papers as well as related information. The 
 ### Application
 - **Distributed Heuristic Multi-Agent Path Finding with Communication** [[paper]](https://arxiv.org/abs/2106.11365)
   - Z. Ma, Y. Luo, H. Ma, **ICRA 2021**
+
+### Others
 
 
 ## Environment
