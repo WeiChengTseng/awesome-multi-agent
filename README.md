@@ -19,7 +19,7 @@ This repo contains a set of research papers as well as related information. The 
 - **SJTU Multi-Agent Reinforcement Learning Tutorial** [[website]](http://wnzhang.net/tutorials/marl2018/index.html)
   - J. Wang, W. Zhang at SJTU 2018 
 -  **Multiagent Learning: Foundations and Recent Trends** [[website]](http://www.cs.utexas.edu/~larg/ijcai17_tutorial/)
-    - S. Albrecht, P. Stone, IJCAI 2017
+    - S. Albrecht, P. Stone, **IJCAI 2017**
 - **COMP310: Multi Agent System** [[website]](https://cgi.csc.liv.ac.uk/~trp/COMP310.html)    
   - T. Payne, 2017-2018
 - **CompSci 285: Multi-Agent Systems** [[website]](https://www.seas.harvard.edu/courses/cs285/CS_285/Course_Home.html)   
@@ -80,7 +80,6 @@ This repo contains a set of research papers as well as related information. The 
 ### Adaptation
 - **Meta-CPR: Generalize to Unseen Large Number of Agents with Communication Pattern Recognition Module** [[paper]](https://arxiv.org/abs/2112.07222)
   - W. C. Tseng, W. Wei, D. C. Juan, M. Sun, **pre-print**
-
 - **A Policy Gradient Algorithm for Learning to Learn in Multiagent Reinforcement Learning** [[paper]](https://arxiv.org/abs/2011.00382)
     - D. Kim, M. Liu, M. Riemer, C. Sun, M. Abdulhai, G. Habibi, S. Lopez-Cot, G. Tesauro, J. P. How, **ICML 2021**
 - **DiCE: The Infinitely Differentiable Monte Carlo Estimator** [[paper]](https://arxiv.org/abs/1802.05098)
