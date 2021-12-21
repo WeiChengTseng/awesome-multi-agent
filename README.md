@@ -62,7 +62,8 @@ This repo contains a set of research papers as well as related information. The 
   - J. Song, H. Ren, D. Sadigh, S. Ermon, **NeurIPS 2018**
 
 ### Offline Learning
--  **Offline Pre-trained Multi-Agent Decision Transformer** [[paper]](https://openreview.net/forum?id=W08IqLMlMer)
+-  **Offline Pre-trained Multi-Agent Decision Transformer** [[paper]](https://arxiv.org/abs/2112.02845)
+    - L. Meng, M. Wen, Y. Yang, C. Le, X. Li, W. Zhang, Y. Wen, H. Zhang, J. Wang, B. Xu
 
 ### Communication
 - **Multi-Agent Graph-Attention Communication and Teaming** [[paper]](https://dl.acm.org/doi/abs/10.5555/3463952.3464065) [[code]](https://github.com/MAGIC-AAMAS/MAGIC)
