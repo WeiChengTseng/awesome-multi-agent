@@ -101,6 +101,7 @@ This repo contains a set of research papers as well as related information. The 
 
 
 ## Environment
+- **Neural MMO** [[code]](https://neuralmmo.github.io/build/html/rst/userguide.html)
 - **SMAC** [[code]](https://github.com/oxwhirl/smac)
 - **Grid-World** [[code]](https://github.com/ArnaudFickinger/gym-multigrid)
 - **Unity ML Agent** [[code]](https://github.com/Unity-Technologies/ml-agents)
