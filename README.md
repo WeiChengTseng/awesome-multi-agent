@@ -5,7 +5,14 @@ This repo contains a set of research papers as well as related information. The 
 
 ## Overview
  - [Tutorials](#tutorials)
- - [Research Papers](#research-papers)
+ - [Research Papers](#papers)
+    - RL in multi-agent
+    - Imitation Learning and Inverse RL
+    - Offline Learning
+    - Communication
+    - Adaptation
+    - Multi-Agent Influence
+    - Others
  - [Environment](#environment)
 
 ## Tutorials
@@ -43,6 +50,10 @@ This repo contains a set of research papers as well as related information. The 
   - T. Bansal, J. Pachocki, S. Sidor, **ICLR 2018**
 - **Multi-Agent Actor-Critic for Mixed Cooperative-Competitive Environments** [[paper]](https://arxiv.org/abs/1706.02275)[[code1]](https://github.com/openai/multiagent-particle-envs)[[code2]](https://github.com/openai/maddpg)
   - R. Lowe, Y. Wu, A. Tamar, **NeurIPS 2017**
+
+### Competition Scenario
+- **Emergent complexity through multi-agent competition** [[paper]](https://arxiv.org/pdf/1710.03748.pdf)
+    - T. Bansal, J. Pachocki, S. Sidor, I. Sutskever, I. Mordatch, **ICLR 2018**
 
 ### Imitation Learning and Inverse RL
 - **Multi-Agent Adversarial Inverse Reinforcement Learning** [[paper]](https://arxiv.org/abs/1907.13220)
@@ -83,18 +94,21 @@ This repo contains a set of research papers as well as related information. The 
   - Z. Ma, Y. Luo, H. Ma, **ICRA 2021**
 
 ### Others
-- Adaptable Agent Populations Using a Generative Model of Policies [[paper]](https://arxiv.org/abs/2107.07506)
-  - K. Derek, P. Isola
+- **Adaptable Agent Populations Using a Generative Model of Policies** [[paper]](https://arxiv.org/abs/2107.07506)
+    - K. Derek, P. Isola, **NeurIPS 2021**
+- **Emergent Tool Use From Multi-Agent Autocurricula** [[paper]](https://arxiv.org/abs/1909.07528)
+    - B. Baker, I. Kanitscheider, T. Markov, Y. Wu, G. Powell, B. McGrew, I. Mordatch, **ICLR 2020**
 
 
 ## Environment
 - **SMAC** [[code]](https://github.com/oxwhirl/smac)
 - **Grid-World** [[code]](https://github.com/ArnaudFickinger/gym-multigrid)
 - **Unity ML Agent** [[code]](https://github.com/Unity-Technologies/ml-agents)
-- **Hanabi Learning Environment** [[Code]](https://github.com/deepmind/hanabi-learning-environment)
-- **MAgent** [[Code]](https://github.com/geek-ai/MAgent) 
-- **multiagent-particle-envs** [[Code]](https://github.com/openai/multiagent-particle-envs)
-- **multiagent-competition** [[Code]](https://github.com/openai/multiagent-competition)
+- **Hanabi Learning Environment** [[code]](https://github.com/deepmind/hanabi-learning-environment)
+- **MAgent** [[code]](https://github.com/geek-ai/MAgent) 
+- **multiagent-particle-envs** [[code]](https://github.com/openai/multiagent-particle-envs)
+- **multiagent-competition** [[code]](https://github.com/openai/multiagent-competition)
+- **Multiagent emergence** [[code]](https://github.com/openai/multi-agent-emergence-environments)
 
 <!-- <table >
   <tr>
