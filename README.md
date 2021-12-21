@@ -19,7 +19,7 @@ This repo contains a set of research papers as well as related information. The 
 - **SJTU Multi-Agent Reinforcement Learning Tutorial** [[website]](http://wnzhang.net/tutorials/marl2018/index.html)
   - J. Wang, W. Zhang at SJTU 2018 
 -  **Multiagent Learning: Foundations and Recent Trends** [[website]](http://www.cs.utexas.edu/~larg/ijcai17_tutorial/)
-  - S. Albrecht, P. Stone, IJCAI 2017
+    - S. Albrecht, P. Stone, IJCAI 2017
 - **COMP310: Multi Agent System** [[website]](https://cgi.csc.liv.ac.uk/~trp/COMP310.html)    
   - T. Payne, 2017-2018
 - **CompSci 285: Multi-Agent Systems** [[website]](https://www.seas.harvard.edu/courses/cs285/CS_285/Course_Home.html)   
