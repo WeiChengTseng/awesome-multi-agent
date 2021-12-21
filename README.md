@@ -80,6 +80,11 @@ This repo contains a set of research papers as well as related information. The 
 ### Adaptation
 - **Meta-CPR: Generalize to Unseen Large Number of Agents with Communication Pattern Recognition Module** [[paper]](https://arxiv.org/abs/2112.07222)
   - W. C. Tseng, W. Wei, D. C. Juan, M. Sun, **pre-print**
+
+- **A Policy Gradient Algorithm for Learning to Learn in Multiagent Reinforcement Learning** [[paper]](https://arxiv.org/abs/2011.00382)
+    - D. Kim, M. Liu, M. Riemer, C. Sun, M. Abdulhai, G. Habibi, S. Lopez-Cot, G. Tesauro, J. P. How, **ICML 2021**
+- **DiCE: The Infinitely Differentiable Monte Carlo Estimator** [[paper]](https://arxiv.org/abs/1802.05098)
+    - J. Foerster, G. Farquhar, M. Al-Shedivat, T. Rocktäschel, E. P. Xing, S. Whiteson, **ICML 2018**
 - **Continuous Adaptation via Meta-Learning in Nonstationary and Competitive Environments** [[paper]](https://arxiv.org/pdf/1710.03641.pdf)
   - M. Al-Shedivat, T. Bansal, Y. Burda, I. Sutskever, I. Mordatch, P. Abbeel, **ICLR 2018**
 
