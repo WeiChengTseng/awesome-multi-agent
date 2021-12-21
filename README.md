@@ -1,4 +1,4 @@
-# Awesome Multi-Agent Learning: [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome Multi-Agent Learning [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 Multi-Agent Learning is a very exciting research area, which has strong connections with single-agent RL, multi-agent systems, game theory, evolutionary computation, communication framework and adaptation.
 
 This repo contains a set of research papers as well as related information. The papers are sorted by time. Any suggestions and pull requests are welcome.
