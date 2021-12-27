@@ -110,7 +110,7 @@ This repo contains a set of research papers as well as related information. The 
 
 
 ## Environment
-- **Neural MMO** [[code]](https://neuralmmo.github.io/build/html/rst/userguide.html)
+<!-- - **Neural MMO** [[code]](https://neuralmmo.github.io/build/html/rst/userguide.html)
 - **SMAC** [[code]](https://github.com/oxwhirl/smac)
 - **Grid-World** [[code]](https://github.com/ArnaudFickinger/gym-multigrid)
 - **Unity ML Agent** [[code]](https://github.com/Unity-Technologies/ml-agents)
@@ -118,27 +118,82 @@ This repo contains a set of research papers as well as related information. The 
 - **MAgent** [[code]](https://github.com/geek-ai/MAgent) 
 - **multiagent-particle-envs** [[code]](https://github.com/openai/multiagent-particle-envs)
 - **multiagent-competition** [[code]](https://github.com/openai/multiagent-competition)
-- **Multiagent emergence** [[code]](https://github.com/openai/multi-agent-emergence-environments)
+- **Multiagent emergence** [[code]](https://github.com/openai/multi-agent-emergence-environments) -->
 
-<!-- <table >
+<!-- | Name                                                                             | Value            |
+|----------------------------------------------------------------------------------|------------------|
+| <img src="https://neuralmmo.github.io/build/html/_images/splash.png" width=200/> | <img width=500/> | -->
+
+
+<table >
   <tr>
-    <td>Alfreds Futterkiste</td>
-    <td>Maria Anders</td>
-    <td>Germany</td>
+    <td width="23%">
+    <img src="https://neuralmmo.github.io/build/html/_images/splash.png" width="100%"/>
+    </td>
+    <td width="23%">
+    <img src="https://user-images.githubusercontent.com/17878413/97562396-e8b12380-1a24-11eb-92ba-c9a05ec3630b.png" width="100%">
+    </td>
+    <td width="23%">
+    <img src="https://raw.githubusercontent.com/ArnaudFickinger/gym-multigrid/master/figures/soccer_2.png" width="100%">
+    </td>
+    <td width="23%">
+    <img src="https://raw.githubusercontent.com/Unity-Technologies/ml-agents/main/docs/images/soccer.png" width="100%">
+    </td>
   </tr>
   <tr>
-    <th>SMAC</th>
-    <th>Grid-World</th>
-    <th>Unity ML Agent</th>
+    <th>
+    <a href="https://neuralmmo.github.io/build/html/rst/userguide.html">Neural MMO</a>
+    </th>
+    <th>
+    <a href="https://github.com/oxwhirl/smac">SMAC</a>
+    </th>
+    <th>
+    <a href="https://github.com/ArnaudFickinger/gym-multigrid">Grid-World</a>
+    </th>
+    <th>
+    <a href="https://github.com/Unity-Technologies/ml-agents">Grid-World</a>
+    </th>
+  </tr>
+
+  <tr>
+    <td width="23%">
+    <img src="https://www.endtoend.ai/assets/blog/rl-weekly/7/hanabi.png" width="100%"/>
+    </td>
+    <td width="23%">
+    <img src="https://camo.githubusercontent.com/ea0905ab13f984ec6480dc701e5bffc5c626eb6e94e3e7eea1b20e7c10a507af/68747470733a2f2f6b6970736f72612e6769746875622e696f2f7265736f75726365732f6d6167656e742d67726170682d312e676966" width="100%">
+    </td>
+    <td width="23%">
+    <img src="https://openai.com/content/images/2017/06/chase_gif_final.gif" width="100%">
+    </td>
+    <td width="23%">
+    <img src="https://i1.read01.com/LlXZ7awAJjZcpwhY1UdURns/0.jpg" width="100%">
+    </td>
   </tr>
   <tr>
-    <td>Centro comercial Moctezuma</td>
-    <td>Francisco Chang</td>
-    <td>Mexico</td>
+    <th>
+    <a href="https://github.com/deepmind/hanabi-learning-environment">Hanabi Learning Environment</a>
+    </th>
+    <th>
+    <a href="https://github.com/geek-ai/MAgent">MAgent</a>
+    </th>
+    <th>
+    <a href="https://github.com/openai/multiagent-particle-envs">multiagent-particle-envs</a>
+    </th>
+    <th>
+    <a href="multiagent-competition">multiagent-competition</a>
+    </th>
+  </tr>
+  
+  <tr>
+    <td width="23%">
+    <img src="https://vitalab.github.io/article/images/autocurricula/env.png" width="100%"/>
+    </td>
   </tr>
   <tr>
-    <th>Company</th>
-    <th>Contact</th>
-    <th>Country</th>
+    <th>
+    <a href="https://github.com/openai/multi-agent-emergence-environments">Multiagent emergence</a>
+    </th>
+
   </tr>
-</table> -->
+
+</table>
