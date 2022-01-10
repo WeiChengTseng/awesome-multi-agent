@@ -151,7 +151,7 @@ This repo contains a set of research papers as well as related information. The 
     <a href="https://github.com/ArnaudFickinger/gym-multigrid">Grid-World</a>
     </th>
     <th>
-    <a href="https://github.com/Unity-Technologies/ml-agents">Grid-World</a>
+    <a href="https://github.com/Unity-Technologies/ml-agents">Unity MLAgent</a>
     </th>
   </tr>
 
